@@ -1,34 +1,26 @@
-# Resume
-Resume 
-Profiles:
---------------
-Kaggle Competition & Discussion Master - www.kaggle.com/shaz13
-GitHub - www.github.com/shaz13
-LinkedIn - www.linkedin.com/in/shaz13
-Medium - https://medium.com/@shaz13
-XDA Developer - https://forum.xda-developers.com/member.php?u=5779101
-DroidViews - https://www.droidviews.com/author/shahebaz/
+# Saikumar Dandla - Resume
 
 Experience:
 ----------------------
-Company	Role	Period
-Societe Generale	Associate Data Scientist	Jan 2020 – Present
-Societe Generale	Data Analyst, Machine Learning	June 2019 – Jan 2020
-H2O.ai	Data Scientist Intern	Jan 2019 – May 2019
-Analytics Vidhya	Data Science Intern	May 2018 – Nov 2018
+Company | Role              | Period
+------------ | ------------- | --------
+DRDO Young Scientist Lab - CT | AI Researcher | Oct-2020 - present
+Infor| Consultant, Associate | July- 2019 - Oct-2020
 
-Competitive Achievements:
+
+Achievements:
 --------------------------
-Top 8th and Gold medal at PetFinder.my Adoption Prediction among 2000+ teams at Kaggle, 2019
-Winner of the most innovative solution award at Brainwaves by Societie Generale, 2019
-Top 3% of 4037 teams and silver medalist at Quora Insincere Question Classification, Kaggle, 2019
-All India 1st Runner-up at TechGig Code Gladiators in Machine Learning hackathon, Mumbai, 2018
-Top 1% of 1.02 million data scientists and Kaggle expert in competitions, kernels and discussions
-Rank 1 out of 300 students at hackathon by JNTUH and Colaberry - USA, 2018
-Rank 1 out of 1400 applicants at Analytics Vidya Hiring Hackathon, Gurgaon 2018
-Top 1% of 7198 teams and silver medalist at Home Credit Default, Kaggle, 2018
-Top 10 finalist for Master Orator Championship by Toastmaster International, Hyderabad, 2016
-Rank 11 out of 50 shortlisted teams in the finale of Brainwaves 2018 by Societe Generale, Bangalore
-India finalist from the south region for Microsoft Office World Championship, Delhi 2013
-State finalist for seminar on Chemistry for Human Welfare at National Science Centre, Tirupati, 2011
-Regional Gold Medalists of International Math Olympiad, 2008
+* Top 1% out of 12K participate  in JOB_A_THON on Analytics Vidhya ML Hackathon, 2021
+* Qualified Gate CS with 391 score in GATE 2020, 2020
+* Top 1% out of 600K users in C, Python programming and SQL worldwide on Hacker Rank, 2019
+* Winner of Technical Project Expo held at National Level Technical Fest (CRESCENCE 2K18), 2018
+* Recipient of the prestigious LIC India Merit Scholarship Award at LIC Head office Hyderabad, 2017
+* Winner of State level Ramanujan Talent Test conducted at Samskruthi Engineering College, Hyd,2015
+
+Profiles:
+--------------
+
+ * GitHub - www.github.com/shaz13
+ * LinkedIn - www.linkedin.com/in/shaz13
+ * Medium - https://medium.com/@shaz13
+ * Kaggle Competition & Discussion Master - www.kaggle.com/shaz13
