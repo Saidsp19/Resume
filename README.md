@@ -18,6 +18,16 @@ Achievements:
 * Recipient of the prestigious LIC India Merit Scholarship Award at LIC Head office Hyderabad, 2017
 * Winner of State level Ramanujan Talent Test conducted at Samskruthi Engineering College, Hyd,2015
 
+Certificates:
+--------------------------
+* DeepLearning.AI TensorFlow Developer Professional Certificate from coursera,2021
+* IBM Certified Data Science Professional Certification from IBM (coursera),2020
+* Practical Machine Learning with Tensorflow from Google and IIT Madras,2020
+* Secure 99% on Applied Machine Learning in Python from University of Michigan (Coursera), 2020
+* Secure 97% on Machine Learning from Stanford University (Coursera), 2020
+* Elite Certificate on Python for Data Science from IIT Madras,2020
+
+
 Profiles:
 --------------
 
