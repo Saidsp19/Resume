@@ -1,20 +1,24 @@
 # Resume
-Resume
-Resume - Mohammad Shahebaz
-Profiles Handles
+Resume 
+Profiles:
+--------------
 Kaggle Competition & Discussion Master - www.kaggle.com/shaz13
 GitHub - www.github.com/shaz13
 LinkedIn - www.linkedin.com/in/shaz13
 Medium - https://medium.com/@shaz13
 XDA Developer - https://forum.xda-developers.com/member.php?u=5779101
 DroidViews - https://www.droidviews.com/author/shahebaz/
-Experience
+
+Experience:
+----------------------
 Company	Role	Period
 Societe Generale	Associate Data Scientist	Jan 2020 – Present
 Societe Generale	Data Analyst, Machine Learning	June 2019 – Jan 2020
 H2O.ai	Data Scientist Intern	Jan 2019 – May 2019
 Analytics Vidhya	Data Science Intern	May 2018 – Nov 2018
-Competitive Achievements
+
+Competitive Achievements:
+--------------------------
 Top 8th and Gold medal at PetFinder.my Adoption Prediction among 2000+ teams at Kaggle, 2019
 Winner of the most innovative solution award at Brainwaves by Societie Generale, 2019
 Top 3% of 4037 teams and silver medalist at Quora Insincere Question Classification, Kaggle, 2019
