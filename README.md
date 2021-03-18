@@ -24,4 +24,4 @@ Profiles:
  * GitHub - www.github.com/sai19
  * LinkedIn - www.linkedin.com/in/sai19
  * Medium - https://medium.com/@sai19
- * Kaggle Competition & Discussion Master - www.kaggle.com/sai19
+ * Kaggle - www.kaggle.com/sai19
