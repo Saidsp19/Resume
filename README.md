@@ -6,7 +6,7 @@ Company | Role              | Period
 ------------ | ------------- | --------
 DRDO Young Scientist Lab - CT | AI Researcher | Oct-2020 - present
 Infor|Software Consultant, Associate | July- 2019 - Oct-2020
-KPMG India | Data Analytics  Intern | April-2019 - July-2020
+KPMG India | Data Analytics  Intern (Virtual) | April-2019 - July-2020
 
 
 Achievements:
