@@ -5,7 +5,8 @@ Experience:
 Company | Role              | Period
 ------------ | ------------- | --------
 DRDO Young Scientist Lab - CT | AI Researcher | Oct-2020 - present
-Infor| Consultant, Associate | July- 2019 - Oct-2020
+Infor|Software Consultant, Associate | July- 2019 - Oct-2020
+KPMG India | Data Analytics  Intern | April-2019 - July-2020
 
 
 Achievements:
@@ -20,7 +21,7 @@ Achievements:
 Profiles:
 --------------
 
- * GitHub - www.github.com/shaz13
- * LinkedIn - www.linkedin.com/in/shaz13
- * Medium - https://medium.com/@shaz13
- * Kaggle Competition & Discussion Master - www.kaggle.com/shaz13
+ * GitHub - www.github.com/sai19
+ * LinkedIn - www.linkedin.com/in/sai19
+ * Medium - https://medium.com/@sai19
+ * Kaggle Competition & Discussion Master - www.kaggle.com/sai19
